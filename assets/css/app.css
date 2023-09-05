@@ -1,0 +1,7 @@
+#videoQueue li{
+    border-bottom: 1px solid rgb(218, 255, 55);
+}
+#videoQueue li:hover{
+    cursor: pointer;
+    border-bottom: 2px solid rgb(209, 255, 6);
+}
