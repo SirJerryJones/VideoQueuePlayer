@@ -1,5 +1,5 @@
 # Video Queue Player
-**By Jones - Senior Full-stack Developer**
+**By Jerry Jones, (Senior Full-stack Developer)**
 **Timestamp: September 5, 2023**
 
 ## Introduction
@@ -44,4 +44,5 @@ If you have any questions or suggestions, please feel free to contact the author
 
 - **Name:** Jerry Jones
 - **Email:** jerryjones@live.in
+- **GitLab:** https://gitlab.com/jerryjones
 - **GitHub:** https://github.com/SirJerryJones
